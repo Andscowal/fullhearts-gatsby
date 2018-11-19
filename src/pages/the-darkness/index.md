@@ -1,6 +1,7 @@
 ---
 title: The Darkness
 date: "2017-10-27T06:30:05"
+tags: ['clearfix']
 ---
 
 There was a time when I couldn't speak my mind.

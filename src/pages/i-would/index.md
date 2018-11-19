@@ -1,6 +1,7 @@
 ---
 title: I Would
 date: "2017-10-29T12:30:05"
+tags: ['clearfix']
 ---
 
 I would allow her to place hot stones on my back, if it meant her rising to the top.

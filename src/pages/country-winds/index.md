@@ -1,6 +1,7 @@
 ---
 title: Country Winds
 date: "2017-12-18T13:30:05"
+tags: ['clearfix']
 ---
 
 Country winds blew blue petals in the air;

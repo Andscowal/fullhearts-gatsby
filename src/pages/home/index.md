@@ -1,6 +1,7 @@
 ---
 title: Home
 date: "2017-12-20T15:30:05"
+tags: ['clearfix']
 ---
 
 Bluebonnet, bluebonnet, you are my home.

@@ -1,6 +1,7 @@
 ---
 title: Never Forget
 date: "2017-11-21T06:30:05"
+tags: ['clearfix']
 ---
 
 For those times when a man has nothing, remind yourself:

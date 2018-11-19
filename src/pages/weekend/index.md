@@ -1,6 +1,7 @@
 ---
 title: The Weekend
 date: "2017-11-23T06:30:05"
+tags: ['clearfix']
 ---
 
 The weekend is another time that is so beautiful, for it is several more days I get to love you.

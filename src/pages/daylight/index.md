@@ -1,6 +1,7 @@
 ---
 title: Daylight
 date: "2017-12-18T15:30:05"
+tags: ['clearfix']
 ---
 
 Daylight spirits play while nightlife rests;

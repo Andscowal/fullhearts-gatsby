@@ -1,6 +1,7 @@
 ---
 title: Stop and Go
 date: "2017-12-10T06:30:05"
+tags: ['clearfix']
 ---
 
 I don't know what to tell you, babe.

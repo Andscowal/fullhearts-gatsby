@@ -1,6 +1,7 @@
 ---
 title: Embers of Love
 date: "2017-12-26T10:30:05"
+tags: ['new']
 ---
 
 Perfection. 

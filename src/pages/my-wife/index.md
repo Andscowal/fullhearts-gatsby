@@ -1,6 +1,7 @@
 ---
 title: My Wife
 date: "2017-12-05T06:30:05"
+tags: ['clearfix']
 ---
 
 My wife, my wife, please my dearest wife; 

@@ -19,7 +19,7 @@ text-center {
 }
 
 .new::after {
-    content: 'NEW!';
+    content: "New, for my Darling Blue";
     color: rgb(0, 0, 128);
     font-size: 12px;
     margin-left: 5px;

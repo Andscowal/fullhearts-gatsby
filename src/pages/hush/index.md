@@ -1,6 +1,7 @@
 ---
 title: Hush
 date: "2018-01-06T06:30:05"
+tags: ['new']
 ---
 
 Hush.

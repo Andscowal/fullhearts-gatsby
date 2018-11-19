@@ -1,6 +1,7 @@
 ---
 title: Stuck
 date: "2018-01-03T06:30:05"
+tags: ['new']
 ---
 
 A dirt road at night casts a shadow as dark as space.

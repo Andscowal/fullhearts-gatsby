@@ -1,6 +1,7 @@
 ---
 title: A Dream A Day...
 date: "2017-10-27T05:30:05"
+tags: ['clearfix']
 ---
 
 I dream one day to hold all the gold summer offers.

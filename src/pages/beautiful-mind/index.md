@@ -1,6 +1,7 @@
 ---
 title: A Beautiful Mind...
 date: "2017-12-07T06:30:05"
+tags: ['clearfix']
 ---
 
 I long for the day I sleep next to you.

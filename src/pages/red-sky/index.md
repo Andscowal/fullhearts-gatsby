@@ -1,6 +1,7 @@
 ---
 title: Red Sky
 date: "2017-12-21T06:30:05"
+tags: ['new']
 ---
 
 A red sky at night, love is in the air.

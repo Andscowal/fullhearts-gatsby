@@ -1,6 +1,7 @@
 ---
 title: Dear Lovebug I
 date: "2017-12-05T10:30:05"
+tags: ['new']
 ---
 
 Dear Lovebug,
