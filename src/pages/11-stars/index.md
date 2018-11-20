@@ -1,7 +1,7 @@
 ---
 title: Eleven Stars
 date: "2018-01-03T08:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 There are eleven stars in my sky. Each one a new aspect I love in my dark life that's been brightened so beautifully every time one is directly overhead.
