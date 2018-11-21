@@ -25,4 +25,11 @@ text-center {
     margin-left: 5px;
     position: relative;
     top: -15px;
+    display: inline-block;
+}
+
+@media screen and (max-width: 500px){
+    .new::after {
+        font-size: 10px;
+    }
 }
