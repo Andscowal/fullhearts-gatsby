@@ -1,7 +1,7 @@
 ---
 title: In the Light
 date: "2018-01-07T15:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 In the light, you'll find happiness the harder you look.

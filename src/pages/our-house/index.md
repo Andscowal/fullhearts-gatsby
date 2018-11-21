@@ -1,7 +1,7 @@
 ---
 title: Our House
 date: "2018-01-07T10:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Perfect house, yellow door, filled with charm.

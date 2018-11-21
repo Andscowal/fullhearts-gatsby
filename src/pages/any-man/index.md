@@ -1,7 +1,7 @@
 ---
 title: Any Man
 date: "2018-01-08T12:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Any man would love you because you're beautiful.
