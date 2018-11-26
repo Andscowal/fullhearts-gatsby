@@ -1,7 +1,7 @@
 ---
 title: When I Go
 date: "2018-01-12T16:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 When I go, I want the sky to be lit with a million wishes.

@@ -1,7 +1,7 @@
 ---
 title: As I Lay Here
 date: "2018-01-13T01:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 As I lay here,

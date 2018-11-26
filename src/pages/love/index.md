@@ -1,7 +1,7 @@
 ---
 title: Love
 date: "2018-01-21T10:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Love. A woman who is headstrong.

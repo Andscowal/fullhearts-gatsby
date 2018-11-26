@@ -1,7 +1,7 @@
 ---
 title: California Nights
 date: "2018-02-13T10:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 We had only one, last California night.

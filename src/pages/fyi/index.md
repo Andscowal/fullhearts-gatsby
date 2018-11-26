@@ -1,7 +1,7 @@
 ---
 title: FYI.
 date: "2018-01-11T16:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 For your information,

@@ -1,7 +1,7 @@
 ---
 title: Dear Lovebug II
 date: "2018-01-14T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Dear Lovebug,

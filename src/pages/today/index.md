@@ -1,7 +1,7 @@
 ---
 title: Today
 date: "2018-02-04T10:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Have you ever been so in love?

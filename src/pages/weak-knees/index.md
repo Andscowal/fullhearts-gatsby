@@ -1,7 +1,7 @@
 ---
 title: Weak Knees
 date: "2018-02-07T16:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 I love it when you reach your goals and let out a great big <i>yes!</i>

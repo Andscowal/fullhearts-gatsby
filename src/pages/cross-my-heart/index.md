@@ -1,7 +1,7 @@
 ---
 title: Cross My Heart
 date: "2018-01-26T10:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Cross my heart, hope to die,

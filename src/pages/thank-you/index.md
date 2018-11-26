@@ -1,7 +1,7 @@
 ---
 title: Thank You
 date: "2018-11-21T16:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Thank you.

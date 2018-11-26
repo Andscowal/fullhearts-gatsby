@@ -1,7 +1,7 @@
 ---
 title: My Life, Wasted
 date: "2018-01-25T15:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Nothing like the sweet strum of a guitar,

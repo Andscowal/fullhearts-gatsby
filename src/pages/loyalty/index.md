@@ -1,7 +1,7 @@
 ---
 title: Loyalty
 date: "2018-02-06T16:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Someone once asked me what loyalty was.

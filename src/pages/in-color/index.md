@@ -1,7 +1,7 @@
 ---
 title: In Color
 date: "2018-01-26T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Sweet Blue, Dear Blue, kiss me with your words, love me with your hands.

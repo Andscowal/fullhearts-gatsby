@@ -1,7 +1,7 @@
 ---
 title: My Queen
 date: "2018-01-18T04:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 I started loving myself again as I read between the paint of olive green, navy blue and sunshine yellow.

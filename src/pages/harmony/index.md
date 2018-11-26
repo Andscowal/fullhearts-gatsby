@@ -1,7 +1,7 @@
 ---
 title: Harmony
 date: "2018-02-04T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 To do things for myself, gets me to where I need to be.

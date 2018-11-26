@@ -1,7 +1,7 @@
 ---
 title: The Dawning Bell
 date: "2018-01-25T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Gong, gong, gong, the dawning bell's song.

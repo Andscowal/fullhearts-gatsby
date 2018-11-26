@@ -1,7 +1,7 @@
 ---
 title: I Hate It
 date: "2018-01-16T15:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 There is a lot that I would do for you.

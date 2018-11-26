@@ -1,7 +1,7 @@
 ---
 title: My Inspiration
 date: "2018-01-16T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Up high in the sky,
