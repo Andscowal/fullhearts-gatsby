@@ -1,7 +1,7 @@
 ---
 title: A Beacon
 date: "2018-02-13T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Do you hear the ring?

@@ -1,7 +1,7 @@
 ---
 title: What Am I Seeing?
 date: "2018-02-14T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Jaw dropped open, I can't believe what I'm seeing!
