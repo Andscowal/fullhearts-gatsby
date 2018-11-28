@@ -28,8 +28,21 @@ text-center {
     display: inline-block;
 }
 
+.special::after {
+    content: "Special, for my Darling Blue";
+    color: #f4d400;
+    font-size: 12px;
+    margin-left: 5px;
+    position: relative;
+    top: -15px;
+    display: inline-block;
+}
+
 @media screen and (max-width: 500px){
     .new::after {
+        font-size: 10px;
+    }
+    .special::after {
         font-size: 10px;
     }
 }
