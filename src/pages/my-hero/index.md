@@ -1,7 +1,7 @@
 ---
 title: My Hero
 date: "2018-02-23T20:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Jump, jump, jump with joy!

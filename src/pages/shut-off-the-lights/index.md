@@ -1,7 +1,7 @@
 ---
 title: Shut Off The Lights
 date: "2018-02-19T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 You shut off the lights...

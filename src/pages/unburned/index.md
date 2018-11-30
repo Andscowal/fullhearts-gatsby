@@ -1,7 +1,7 @@
 ---
 title: Unburned.
 date: "2018-02-23T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Sweet Manda, Sweet Manda. How I long for your smile.

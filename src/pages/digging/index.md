@@ -1,7 +1,7 @@
 ---
 title: Digging
 date: "2018-02-22T20:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 A foggy mist sprinkles a seaspray overhead,

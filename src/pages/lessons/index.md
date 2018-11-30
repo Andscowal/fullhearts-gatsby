@@ -1,7 +1,7 @@
 ---
 title: Lessons
 date: "2018-02-21T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Out of all the opportunities the Navy was supposed to bring me, happiness was not one of them.

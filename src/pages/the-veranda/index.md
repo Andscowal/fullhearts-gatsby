@@ -1,7 +1,7 @@
 ---
 title: The Veranda
 date: "2018-02-24T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Once upon a time, there was an evil being named Depression.
