@@ -46,3 +46,9 @@ text-center {
         font-size: 10px;
     }
 }
+
+@media screen and (max-width: 991px){
+    .hide-mobile {
+        display: none;
+    }
+}
