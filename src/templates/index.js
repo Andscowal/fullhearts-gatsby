@@ -76,7 +76,6 @@ class BlogIndex extends React.Component {
                 style={{
                   padding: rhythm(1 / 4),
                   textDecoration: 'none',
-                  color: i + 1 === currentPage ? '#ffffff' : '', 
                   background: i + 1 === currentPage ? '#f4d400' : ''
                 }}
               >
