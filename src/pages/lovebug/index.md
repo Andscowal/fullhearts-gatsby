@@ -1,7 +1,7 @@
 ---
 title: A Love Bug
 date: "2018-03-02T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 It's crazy how we ended up here, in this little land.

@@ -1,7 +1,7 @@
 ---
 title: The Smell of Fall
 date: "2018-03-05T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 I love the smell of fall...

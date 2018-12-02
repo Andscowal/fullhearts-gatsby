@@ -1,7 +1,7 @@
 ---
 title: Infinite
 date: "2018-03-03T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 There is an infinite amount of things that I love about you!

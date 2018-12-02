@@ -1,7 +1,7 @@
 ---
 title: Never Enough
 date: "2018-02-28T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 I know I don't have a sep date yet or anything, but I know you and how amazing you are and I know the Navy and I know they are going to take you away from me as much as possible, so you had better believe that I'm going to cherish every moment of every day I have with you!

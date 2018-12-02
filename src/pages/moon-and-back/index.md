@@ -1,7 +1,7 @@
 ---
 title: The Moon and Back
 date: "2018-02-26T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 To the moon and back.

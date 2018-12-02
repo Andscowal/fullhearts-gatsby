@@ -1,7 +1,7 @@
 ---
 title: Freckles
 date: "2018-03-06T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Freckled eyes, first ground touched of autumn.
