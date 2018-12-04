@@ -1,7 +1,7 @@
 ---
 title: Amanda
 date: "2018-03-05T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 <yellow>A</yellow> is for amazing, so special and unique.

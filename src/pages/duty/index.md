@@ -1,7 +1,7 @@
 ---
 title: First Day of Duty
 date: "2018-03-02T03:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 Today is the day where you first have duty! 

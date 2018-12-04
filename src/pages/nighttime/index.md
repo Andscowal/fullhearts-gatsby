@@ -1,7 +1,7 @@
 ---
 title: Nighttime
 date: "2018-03-04T06:30:05"
-tags: ['new']
+tags: ['clearfix']
 ---
 
 When we are apart, nighttime is my absolute favorite!
